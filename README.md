@@ -1,16 +1,10 @@
-# devops-showcase-app## DevOps Automation Demo
+# devops-showcase-app
 
-This repository demonstrates a DevOps workflow automation using n8n.
-test
+## DevOps Automation Demo
 
-huhuhuhu
+This repository demonstrates a DevOps workflow automation using n8n and AI-powered code reviews.
 
-hahahahahahah
-vvvvvvv
-lalalalalalal
-mmmmmmm
-kullllleeee 
-huihuihui
-m m     mnbjbvjvjvv
-fffff
-fffff
+### Features
+- Automated AI Code Review on Pull Requests
+- Azure AI Foundry (Llama-3.3-70B) integration
+- Microsoft Teams notifications
